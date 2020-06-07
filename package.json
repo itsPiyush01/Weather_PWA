@@ -1,0 +1,20 @@
+{
+  "name": "weather_pwa",
+  "version": "1.0.0",
+  "description": "A Simple Weather Progressive Web App Using React.js and OpenWeatherMap API",
+  "main": "index.js",
+  "scripts": {
+    "app-install": "cd client && npm install",
+    "app":"cd client && npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itsPiyush01/Weather_PWA.git"
+  },
+  "author": "Piyush Ranjan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/itsPiyush01/Weather_PWA/issues"
+  },
+  "homepage": "https://github.com/itsPiyush01/Weather_PWA#readme"
+}
